@@ -1,7 +1,7 @@
 
 # IntegracaoDominioThomsomReuters
 
-Aplicação Delphi de exemplo, demonstrando como integrar seu ERP a API da Domínio Sistemas - Thomson Reuters.
+Aplicação desenvolvida em Delphi, demonstrando como integrar seu ERP a API da Domínio Sistemas - Thomson Reuters.
 Esta integração foi implementada de acordo com a documentação disponibilizada no Portal de Atendimento ao Cliente - Central de Soluções.
 
 
